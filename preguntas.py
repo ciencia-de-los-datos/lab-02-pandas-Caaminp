@@ -22,7 +22,11 @@ def pregunta_01():
     40
 
     """
-    return
+    Row = len(tbl0)
+    return Row
+Row = pregunta_01()
+print(Row)
+
 
 
 def pregunta_02():
